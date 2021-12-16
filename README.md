@@ -18,5 +18,7 @@ Anche solo un "grazie" per email è davvero prezioso per me, e mi motiva ad anda
 ## Riconoscimenti Addizionali
 
 Per aver creato essenzialmente la base di questi appunti:
-Giacomo Ciccone - [agente-drif](https://github.com/agente-drif)
-Letizia Gorini - [leti15](https://github.com/leti15)
+<ul>
+<li>Giacomo Ciccone - [agente-drif](https://github.com/agente-drif)</li>
+<li>Letizia Gorini - [leti15](https://github.com/leti15)</li>
+</ul>
